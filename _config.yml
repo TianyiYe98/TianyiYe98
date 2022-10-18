@@ -83,8 +83,12 @@ author:
   name             : "Tianyi Ye"
   avatar           : "profile.png"
   bio              : "Graduate student\n\ 
+  
                       Biomedical Engineering\n\ 
-                      Johns Hopkins University"
+                      
+                      Johns Hopkins University
+                      
+                      Email: tye5(at)jhu.edu"
   location         : "Baltimore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
