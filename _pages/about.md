@@ -10,9 +10,9 @@ redirect_from:
 
 I am a second year MSE student in [Department of Biomedical Engineering](https://www.bme.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/) working with [Prof. Ji Yi](https://www.yilab.org/). My research interest includes medical image processing & analysis and improving health care with Deep Learning. Currently, my current work focuses on denoising and segmentation for visible light oct images using deep learning methods. 
 
-Previously, I was a research assistant at SJTU and Tsinghua University, where my research focused on unsupervised sparse-view artifacts reduction in CT images based on CycleGAN and auto-encoder-based deepfake for Parkinson's diagnosis, respectively. 
+Previously, I was a research assistant at SJTU and Tsinghua University, where my research focused on unsupervised sparse-view artifacts reduction in CT images based on CycleGAN and auto-encoder-based deepfake for Parkinson's diagnosis, respectively. See some visualization at[Portfolio](..)
 
-After exploring multiple imaging modalities and deep learning techniques, I developed strong interest, enthusiasm, and experience in OCT image processing and analysis, including but not limited to segmentation, denoising, synthesis, few-shot learning strategy, anatomical/model constraints embedded method design and interpretable ML.  
+After exploring multiple imaging modalities and deep learning techniques, I developed strong interest, enthusiasm, and experience in medical image processing and analysis, including but not limited to segmentation, denoising, synthesis, few-shot learning strategy, anatomical/model constraints embedded method design and interpretable ML.  
 
 
 Education
