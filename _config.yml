@@ -11,7 +11,7 @@ title                    : "Tianyi Ye"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://tianyiye98.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tianyiye98.github.io/page #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TianyiYe98/page/" #"academicpages/academicpages.github.io"
 teaser                   : "500x300.png" #filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,13 +83,7 @@ author:
   name             : "Tianyi Ye"
   avatar           : "Profile.jpg"
   
-  bio              : "Graduate student
-  
-                      Biomedical Engineering
-                     
-                      Johns Hopkins University
-                      
-                      Email: tye5(at)jhu.edu"
+  bio              : "Graduate student <br> Biomedical Engineering <br> Johns Hopkins University <br> Email: tye5(at)jhu.edu"
                       
   location         : "Baltimore"
   employer         :
