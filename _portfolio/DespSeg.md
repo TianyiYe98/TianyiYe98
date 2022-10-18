@@ -6,5 +6,5 @@ collection: portfolio
 
 Taking advantage of the co-learning process, DespSeg outperforms other self-supervised denoising method(N2V), visually restoring more detials and improving contrast, and improve segmentation performance compared the baseline UNet and sequential strategy. 
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/portfolio/Archi.jpg'>
 
