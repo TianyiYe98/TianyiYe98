@@ -1,6 +1,6 @@
 ---
 title: "DespSeg"
-excerpt: "Jointly reduce speckle noise and segment retinal layers in Vis-OCT images<br/><img src='/portfolio/Archi.jpg'>"
+excerpt: "Jointly reduce speckle noise and segment retinal layers in Vis-OCT images <br/><img src='/portfolio/Archi.jpg'>"
 collection: portfolio
 ---
 
