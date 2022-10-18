@@ -18,13 +18,17 @@ After exploring multiple imaging modalities and deep learning techniques, I deve
 Education
 ======
 M.S., in Biomedical Engineering, Johns Hopkins University, Sep. 2021--Present.
+
 B.S., in Nuclear Enginieering and technology, Sichuan University, Sep. 2016--June. 2020
 
 Research Experiences 
 ======
 Research Assistant, at Yi lab, Johns Hopkins University, Nov. 2021--Now.
+
 Research Assistant, at Tsinghua University University, Mar. 2021--Jul. 2021
+
 Research Assistant, Shanghai Jiaotong University, Sep. 2020--Jan. 2021.
+
 Research Assistant, at Sichuan University, Feb. 2019--May. 2020.
 
 
