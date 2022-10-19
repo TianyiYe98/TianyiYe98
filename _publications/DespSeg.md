@@ -1,7 +1,7 @@
 ---
 title: "DespSeg"
 collection: publications
-date: 2023 (expected)
+date: 2023
 
 excerpt: 'DespSeg: A Label-efficient Co-learning Framework to Simultaneously Reduce Speckle Noise and Segment Retinal Layers for Visible Light Oct Image'
 ---
