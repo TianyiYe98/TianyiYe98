@@ -10,7 +10,7 @@ Taking advantage of the co-learning process, DespSeg outperforms other self-supe
 
 <br/><img src='https://tianyiye98.github.io/page/portfolio/Archi.jpg'>
 <br/> **Fig. 1** Architecture of DespSeg
-<br/><img src='https://tianyiye98.github.io/page/portfolio/overall_1.png'>
+<br/><img src='https://tianyiye98.github.io/page/portfolio/overall_2.png'>
 <br/> **Fig. 2** Overall denoising and segmentation visualization. Four test samples are displayed, for sample x: (ax) is the clean ground truth, (bx) is the noisy input, (cx) is the N2V denoised image, (dx) is the DespSeg denoised image, (ex) is manually segmentation mask, (fx),(gx),(ex) are the predicted segmenatation masks using UNet with noisy input, using UNet with noisy image denoised by N2V, and using DespSeg with noisy input, respectively.
 
 
