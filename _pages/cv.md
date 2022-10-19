@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[My CV: ](https://tianyiye98.github.io/page/files/DLMI_Report.pdf)
+[My CV: tianyiye_cv.pdf](https://tianyiye98.github.io/page/files/DLMI_Report.pdf)
