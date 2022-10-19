@@ -1,9 +1,13 @@
 ---
 title: "Deepfake for PD diagnosis"
-excerpt: "Deepfake videos for Parkinson's Disease patients' privacy protection and information preservation<br/><img src='/Profile.jpg'>"
+excerpt: "Deepfake videos for Parkinson's Disease patients' privacy protection and information preservation<br/><img src='https://tianyiye98.github.io/page/portfolio/20251610261900XXXXVFOF0102500000010.png'>"
 collection: portfolio
 ---
 
-Taking advantage of the co-learning process, DespSeg outperforms other self-supervised denoising method(N2V), visually restoring more detials and improving contrast, and improve segmentation performance compared the baseline UNet and sequential strategy. 
+I developed a batch processing program with SBR algorithm to detect all frames of subjects for landmark detection and calculation of Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR), thereby conducting automatic data cleaning and eye/mouth dynamics analysis, the former is essential for auto-encoder training and the latter is important information that clinicians use to diagnoise Parkinson's Disease. 
 
-<br/><img src='/images/Architecture.png'>
+<br/>**Fig. 1** Synthezied video with detected landmarks
+<br/><img src='https://tianyiye98.github.io/page/portfolio/c20251610261900XXXXVFOF010250000_AdobeExpress.gif'>
+
+<br/>**Fig. 2** Eyes and mouth dynamics
+<br/><img src='https://tianyiye98.github.io/page/portfolio/mar&ear_compare.png'>
