@@ -6,7 +6,7 @@ collection: portfolio
 COURSE PROJECTS of Machine Learning: Deep Learning at JHU (A+)
 
 See final report as a writting sample:
-[Retinal Vessel Segmentation Using Different Attention Mechanisms](https://tianyiye98.github.io/page/file/Retina_Vessel_Image_Segmentation_Final.pdf)
+[Retinal Vessel Segmentation Using Different Attention Mechanisms](https://tianyiye98.github.io/page/files/Retina_Vessel_Image_Segmentation_Final.pdf)
 
 
 
