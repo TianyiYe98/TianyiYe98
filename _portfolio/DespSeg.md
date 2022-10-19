@@ -10,7 +10,7 @@ Taking advantage of the co-learning process, DespSeg outperforms other self-supe
 
 
 <br/>
-**Fig. 1** Architecture of DespSeg
+**Fig.1** Architecture of DespSeg
 <img src='https://tianyiye98.github.io/page/portfolio/Archi.jpg'>
 
 
