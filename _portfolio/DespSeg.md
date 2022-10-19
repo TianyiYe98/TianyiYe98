@@ -4,7 +4,7 @@ excerpt: "Jointly reduce speckle noise and segment retinal layers in Vis-OCT ima
 collection: portfolio
 ---
 We plan to present the first Vis-OCT retinal image dataset, including retinal boundary annotation and noisy-clean pairs.
-<br/><img src='https://tianyiye98.github.io/page/portfolio/Dataset.jpg'>
+<br/><img src='https://tianyiye98.github.io/page/portfolio/Dataset.png'>
 
 Taking advantage of the co-learning process, DespSeg outperforms other self-supervised denoising method(N2V), visually restoring more detials and improving contrast, and improve segmentation performance compared the baseline UNet and sequential strategy. See the more [details](https://tianyiye98.github.io/page/files/paper3.pdf) here. 
 
