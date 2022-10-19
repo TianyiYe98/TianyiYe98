@@ -6,7 +6,7 @@ collection: portfolio
 COURSE PROJECTS of Deep learning for Medical imaging at JHU (A)
 
 See final report as a writting sample:
-[Distal tibiofibular joint segmentation in CT reconstructions](https://tianyiye98.github.io/page/file/DLMI_Report.pdf)
+[Distal tibiofibular joint segmentation in CT reconstructions](https://tianyiye98.github.io/page/files/DLMI_Report.pdf)
 
 
 
