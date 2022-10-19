@@ -1,6 +1,6 @@
 ---
 title: "Sparse-view artifacts reduction in CT image"
-excerpt: "Unsupervised learning based on CycleGAN compared to supervised ResNet and UNet<br/><img src='https://tianyiye98.github.io/page/portfolio/CT_artifact_reduction.jpg'>"
+excerpt: "Unsupervised learning based on CycleGAN compared to supervised ResNet and UNet<br/><img src='https://tianyiye98.github.io/page/portfolio/CT_artifact_reduction.png'>"
 collection: portfolio
 ---
 
@@ -11,7 +11,7 @@ the image has lost too much information.
 
 
 <br/>**Fig. 1** Synthesized video with detected landmarks
-<br/><img src='https://tianyiye98.github.io/page/portfolio/CT_artifact_reduction.jpg'>
+<br/><img src='https://tianyiye98.github.io/page/portfolio/CT_artifact_reduction.png'>
 
 
 
