@@ -1,4 +1,4 @@
-**Working in progress:***
+**Working in progress:**
 
 <br>
 **DespSeg**
