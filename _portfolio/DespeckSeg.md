@@ -14,7 +14,7 @@ Taking advantage of the co-learning process, DespeckSeg outperforms other self-s
 <img src='https://tianyiye98.github.io/page/portfolio/Archi.jpg'>
 
 
-<br/> **Fig. 3** Overall denoising and segmentation visualization. Four test samples are displayed, for sample x: (ax) is the clean ground truth, (bx) is the noisy input, (cx) is the N2V denoised image, (dx) is the DespeckSeg denoised image, (ex) is manually segmentation mask, (fx),(gx),(ex) are the predicted segmenatation masks using UNet with noisy input, using UNet with noisy image denoised by N2V, and using DespeckSeg with noisy input, respectively. Note that this visualization does not represent the trend  of the quantitative result. For representative visualization see [publication]('https://tianyiye98.github.io/page/publications/').
+<br/> **Fig. 3** Overall denoising and segmentation visualization. Four test samples are displayed, for sample x: (ax) is the clean ground truth, (bx) is the noisy input, (cx) is the N2V denoised image, (dx) is the DespeckSeg denoised image, (ex) is manually segmentation mask, (fx),(gx),(ex) are the predicted segmenatation masks using UNet with noisy input, using UNet with noisy image denoised by N2V, and using DespeckSeg with noisy input, respectively. Note that this visualization does not represent the trend of the quantitative result. For representative visualization see draft ('https://tianyiye98.github.io/page/publications/').
 
 <br/><img src='https://tianyiye98.github.io/page/portfolio/overall_2.png'>
 
