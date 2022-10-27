@@ -16,7 +16,7 @@ We plan to present the first Vis-OCT retinal image dataset, including retinal bo
 <img src='https://tianyiye98.github.io/page/portfolio/Archi.jpg'>
 
 
-<br/> **Fig. 3** Overall denoising and segmentation visualization using noisy input with 25% annotation. Two test samples aredisplayed. For a sample x: (ax) is the clean ground truth, (bx) is the noisy input, (cx) is the N2V denoised image, (dx) is the DespeckSeg denoised image, (ex) is the manual segmentationmask, (fx),(gx),(hx) are the predicted segmentation masks using ours without denoising, using UNet with image denoisedby N2V, and using ours with denoising , respectively.
+<br/> **Fig. 3** Overall denoising and segmentation visualization using noisy input with 25% annotation. Two test samples aredisplayed(One of them is my left eye ;), guess which one). For a sample x: (ax) is the clean ground truth, (bx) is the noisy input, (cx) is the N2V denoised image, (dx) is the DespeckSeg denoised image, (ex) is the manual segmentationmask, (fx),(gx),(hx) are the predicted segmentation masks using ours without denoising, using UNet with image denoisedby N2V, and using ours with denoising , respectively.
 
 <br/><img src='https://tianyiye98.github.io/page/portfolio/overall_1.png'>
 
