@@ -1,13 +1,13 @@
 ---
-title: "DespSeg"
+title: "DespeckSeg"
 collection: publications
-excerpt: "DespSeg: A Label-efficient Co-learning Framework to Simultaneously Reduce Speckle Noise and Segment Retinal Layers for Visible Light Oct Image"
+excerpt: "DespSeg: SIMULTANEOUS SPECKLE NOISE REDUCTION AND LAYER SEGMENTATION FOR RETINA VISIBLE LIGHT OCT"
 date: 2023-04-01
 ---
 <br/>
-**Working in progress**
+**preprint manuscript working in progress**
 <br/>
-Plan to summit to ISBI 2023
-[Working draft](https://tianyiye98.github.io/page/files/Retina_Vessel_Image_Segmentation_Final.pdf)
+Plan to summit to Biomedical Optics Express
+[Working draft](https://tianyiye98.github.io/page/files/DespeckSeg.pdf)
 
-Also see [portfolio](https://tianyiye98.github.io/page/portfolio/DespSeg)
+Also see [portfolio](https://tianyiye98.github.io/page/portfolio/DespeckSeg)
