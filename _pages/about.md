@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year MSE student in [Department of Biomedical Engineering](https://www.bme.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/) working with [Prof. Ji Yi](https://www.yilab.org/). Currently, my current work focuses on denoising and segmentation for visible light oct images using deep learning methods. 
+I am a second year MSE student in [Department of Biomedical Engineering](https://www.bme.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/) working with [Prof. Ji Yi](https://www.yilab.org/). Currently, my research focuses on denoising and segmentation for visible light oct images using deep learning methods. 
 
 Previously, I was a research assistant at SJTU and Tsinghua University, where my research focused on unsupervised sparse-view artifacts reduction in CT images based on CycleGAN and auto-encoder-based deepfake for Parkinson's diagnosis, respectively. See some visualization at [Portfolio](https://tianyiye98.github.io/page/portfolio/).
 
