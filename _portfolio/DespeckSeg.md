@@ -7,7 +7,9 @@ We plan to present the first Vis-OCT retinal image dataset, including retinal bo
 <br/>**Fig. 1** Retinal boundary delineation, individually reviewed and edited. 
 <br/><img src='https://tianyiye98.github.io/page/portfolio/Dataset.png'>
 
-Taking advantage of the co-learning process, DespeckSeg outperforms other self-supervised denoising method(N2V), visually restoring more detials and improving contrast, and improve segmentation performance compared the baseline UNet and sequential strategy. See the more [details](https://tianyiye98.github.io/page/files/DespeckSeg.pdf) here. 
+
+
+<br/>Taking advantage of the co-learning process, DespeckSeg outperforms other self-supervised denoising method(N2V), visually restoring more detials and improving contrast, and improve segmentation performance compared the baseline UNet and sequential strategy. See the more [details](https://tianyiye98.github.io/page/files/DespeckSeg.pdf) here. 
 
 
 <br/>**Fig. 2** Architecture of DespeckSeg
