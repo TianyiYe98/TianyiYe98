@@ -1,13 +1,10 @@
 ---
-title: "DespeckSeg"
+title: "DenoiSegOCT"
 collection: publications
-excerpt: "DespeckSeg: SIMULTANEOUS SPECKLE NOISE REDUCTION AND LAYER SEGMENTATION FOR RETINA VISIBLE LIGHT OCT"
+excerpt: "Simultaneous Noise Reduction and Layer Segmentation for Visible Light Optical Coherence Tomography in Human Retina"
 date: 2023-04-01
 ---
 <br/>
-**preprint manuscript working in progress**
+(Preprint) Tianyi Ye, Jingyu Wang, Ji Yi. “Simultaneous Noise Reduction and Layer Segmentation for Visible Light Optical Coherence Tomography in Human Retina”, [bioRxiv 2022.11.25.518000](https://www.biorxiv.org/content/10.1101/2022.11.25.518000v1).
 <br/>
-Plan to summit to Biomedical Optics Express
-[Working draft](https://tianyiye98.github.io/page/files/DespeckSeg.pdf)
 
-Also see [portfolio](https://tianyiye98.github.io/page/portfolio/DespeckSeg)
