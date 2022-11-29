@@ -1,6 +1,7 @@
 ---
 title: "DenoiSegOCT"
-excerpt: "Simultaneous Noise Reduction and Layer Segmentation for Visible Light Optical Coherence Tomography in Human Retina <br/><img src='https://tianyiye98.github.io/page/portfolio/dataset_1.png'>"
+excerpt: "Simultaneous Noise Reduction and Layer Segmentation for Visible Light Optical Coherence Tomography in Human Retina 
+<br/><img src='https://tianyiye98.github.io/page/portfolio/dataset_1.png'>"
 collection: portfolio
 ---
 We plan to present the first Vis-OCT retinal image dataset, including retinal boundary annotation and noisy-clean pairs.
