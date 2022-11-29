@@ -12,7 +12,7 @@ We plan to present the first Vis-OCT retinal image dataset, including retinal bo
 <br/><img src='https://tianyiye98.github.io/page/portfolio/dataset_1.png'>
 
 
-<br/>Given the qualitative and quantitative results, our framework achieves considerable performance with self-denoising and segmentation baselines and provides an angle for few-shot or small dataset learning of segmentation, which is common in many clinical scenarios. See the more [details](https://tianyiye98.github.io/page/files/DenoiSegOCT_bioRxiv_v1.pdf) here.
+<br/>Given the qualitative and quantitative results, our framework achieves considerable performance with self-denoising and segmentation baselines and provides an angle for few-shot or small dataset learning of segmentation, which is common in many clinical scenarios. See the more [details](https://tianyiye98.github.io/page/files/DenoiSegOCT_bioRxiv_1.pdf) here.
 
 
 <br/>**Fig. 3** Architecture of DenoiSegOCT
