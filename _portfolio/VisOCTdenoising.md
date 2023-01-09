@@ -11,3 +11,7 @@ The generality and robustness of the trained model was also tested on a Raster s
 D) The multi B-scans averaged clean image.
 
 <br/><img src='https://tianyiye98.github.io/page/portfolio/HD_denoised.png'>
+
+<br/>**Fig. 1** Fig. 2. Top: B-scan, bottom: en face image. Fig. 2A, B and C are the noisy volume, volume denoised by the self-supervised method and volume denoised by the supervised method.
+
+<br/><img src='https://tianyiye98.github.io/page/portfolio/Raster_denoise.png'>
