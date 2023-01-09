@@ -5,6 +5,6 @@ excerpt: "End-to-end design for visOCT denoising by speckle reduction scanning a
 date: 2023-04-01
 ---
 <br/>
-(Submitted to ARVO annual meeting) Tianyi Ye, Jingyu Wang, Ji Yi. “End-to-end design for visOCT denoising by speckle reduction scanning and deep learning”.
+(Abstract submitted to ARVO annual meeting) Tianyi Ye, Jingyu Wang, Ji Yi. “End-to-end design for visOCT denoising by speckle reduction scanning and deep learning”.
 <br/>
 
